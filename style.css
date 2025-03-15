@@ -1,7 +1,8 @@
-.card-body {
+div .card-body {
     background-color: #fff0ee;
     padding: 1rem 1.5rem;
-}
+} 
+/* přidáním div zvýším specificitu a už mi to nemůže přepsat */
 
 h5 { 
 text-transform: uppercase;
